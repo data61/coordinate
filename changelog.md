@@ -1,3 +1,8 @@
+0.1.3
+
+* Depends on `papa` package.
+* Moved repository `s/NICTA/data61`.
+
 0.1.2
 
 * Functions to construct using degrees.

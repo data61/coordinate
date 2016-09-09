@@ -4,22 +4,22 @@ license:            BSD3
 license-file:       LICENCE
 author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
 maintainer:         Tony Morris
-copyright:          Copyright (C) 2013-2016 NICTA Limited
+copyright:          Copyright (c) 2016, Commonwealth Scientific and Industrial Research Organisation (CSIRO) ABN 41 687 119 230.
 synopsis:           A representation of latitude and longitude
 category:           Development
 description:       
   <<http://i.imgur.com/Ns5hntl.jpg>>
   .
   A representation of latitude and longitude
-homepage:           https://github.com/NICTA/coordinate
-bug-reports:        https://github.com/NICTA/coordinate/issues
+homepage:           https://github.com/data61/coordinate
+bug-reports:        https://github.com/data61/coordinate/issues
 cabal-version:      >= 1.10
 build-type:         Custom
 extra-source-files: changelog.md, other-licence.md
 
 source-repository   head
   type:             git
-  location:         git@github.com:NICTA/coordinate.git
+  location:         git@github.com:data61/coordinate.git
 
 flag                small_base
   description:      Choose the new, split-up base package.
